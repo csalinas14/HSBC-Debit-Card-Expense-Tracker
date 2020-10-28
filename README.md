@@ -5,3 +5,8 @@ Hello! This is my first project. I will be updating this readme in the future to
 The aim of this project was to create something useful to me but also challenge myself and learn new things. I got hands on experience with a GUI which was the tkinter library in this case. I also got experience using databases by making use of the SQLite library. I also learned how to take a source of data and turn it into something I can use. 
 
 All my code was done in Python 3. New libraries I learned to use are Tkinter, SQLite3, and abit of OS and datetime.
+
+The app file contains most of the code. Mostly tkinter and maybe references to functions and database files when needed.
+The database file has the code that makes callback to our database.
+The functions file contains functions that are used in the app file. 
+The test excel file is some sample data of what the HSBC banking history would look like.
